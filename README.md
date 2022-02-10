@@ -3,6 +3,8 @@
 Github: https://github.com/irvensd/Note-taker
 
 Heroku: https://evening-brushlands-92916.herokuapp.com/
+
+Google Drive Video: https://drive.google.com/file/d/1z_qWgXKw7VCGXgfpD4zYkiXFl8ptGFVX/view
 ## Description 
 An application to write and save note with Express.js back end and will save and retrieve note data from JSON file.
 
