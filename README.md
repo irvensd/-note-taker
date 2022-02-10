@@ -16,7 +16,11 @@ Application will allow user to be able to add note's title and description
 Application will allow user to be able to save the notes and won't lose them even they refresh the page
 Application will allow user to be delete notes
 
-## Screenshots 
+## Screenshots
+
+![alt text](https://github.com/irvensd/Note-taker/blob/main/screenshot.jpg)
+![alt text](https://github.com/irvensd/Note-taker/blob/main/screenshot1.jpg)
+![alt text](https://github.com/irvensd/Note-taker/blob/main/screenshot2.jpg)
 
 
 ## Technologies Use 
